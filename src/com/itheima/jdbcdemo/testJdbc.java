@@ -42,7 +42,7 @@ public class testJdbc{
                     e.printStackTrace();
                 }
             }
-
+            /*测试的内容*/
             if(pstm !=null) {
                 try {
                     pstm.close();

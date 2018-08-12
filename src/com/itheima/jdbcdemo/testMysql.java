@@ -49,7 +49,7 @@ public class testMysql{
                     e.printStackTrace();
                 }
             }
-
+/*测试的内容*/
             try {
                 if(con != null &&(!con.isClosed())) {
                     try {
